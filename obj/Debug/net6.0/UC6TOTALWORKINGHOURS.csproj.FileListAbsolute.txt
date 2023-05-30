@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\bin\Debug\net6.0\UC6TOTALWORKINGHOURS.exe
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\bin\Debug\net6.0\UC6TOTALWORKINGHOURS.deps.json
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\bin\Debug\net6.0\UC6TOTALWORKINGHOURS.runtimeconfig.json
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\bin\Debug\net6.0\UC6TOTALWORKINGHOURS.dll
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\bin\Debug\net6.0\UC6TOTALWORKINGHOURS.pdb
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.dll
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\refint\UC6TOTALWORKINGHOURS.dll
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.pdb
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\UC6TOTALWORKINGHOURS.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC6TOTALWORKINGHOURS\obj\Debug\net6.0\ref\UC6TOTALWORKINGHOURS.dll

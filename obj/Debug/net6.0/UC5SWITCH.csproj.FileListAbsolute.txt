@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC5SWITCH\bin\Debug\net6.0\UC5SWITCH.exe
+C:\Users\swath\source\repos\UC5SWITCH\bin\Debug\net6.0\UC5SWITCH.deps.json
+C:\Users\swath\source\repos\UC5SWITCH\bin\Debug\net6.0\UC5SWITCH.runtimeconfig.json
+C:\Users\swath\source\repos\UC5SWITCH\bin\Debug\net6.0\UC5SWITCH.dll
+C:\Users\swath\source\repos\UC5SWITCH\bin\Debug\net6.0\UC5SWITCH.pdb
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.dll
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\refint\UC5SWITCH.dll
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.pdb
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\UC5SWITCH.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC5SWITCH\obj\Debug\net6.0\ref\UC5SWITCH.dll

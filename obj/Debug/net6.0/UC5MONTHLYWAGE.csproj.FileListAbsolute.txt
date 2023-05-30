@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\bin\Debug\net6.0\UC5MONTHLYWAGE.exe
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\bin\Debug\net6.0\UC5MONTHLYWAGE.deps.json
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\bin\Debug\net6.0\UC5MONTHLYWAGE.runtimeconfig.json
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\bin\Debug\net6.0\UC5MONTHLYWAGE.dll
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\bin\Debug\net6.0\UC5MONTHLYWAGE.pdb
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.dll
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\refint\UC5MONTHLYWAGE.dll
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.pdb
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\UC5MONTHLYWAGE.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC5MONTHLYWAGE\obj\Debug\net6.0\ref\UC5MONTHLYWAGE.dll

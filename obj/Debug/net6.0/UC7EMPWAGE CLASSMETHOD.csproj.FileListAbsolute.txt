@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\bin\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.exe
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\bin\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.deps.json
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\bin\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.runtimeconfig.json
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\bin\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.dll
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\bin\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.pdb
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.dll
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\refint\UC7EMPWAGE CLASSMETHOD.dll
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.pdb
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\UC7EMPWAGE CLASSMETHOD.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC7EMPWAGE CLASSMETHOD\obj\Debug\net6.0\ref\UC7EMPWAGE CLASSMETHOD.dll

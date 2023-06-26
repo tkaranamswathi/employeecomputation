@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\bin\Debug\net6.0\UC10SUPPORTEMPWAGE.exe
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\bin\Debug\net6.0\UC10SUPPORTEMPWAGE.deps.json
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\bin\Debug\net6.0\UC10SUPPORTEMPWAGE.runtimeconfig.json
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\bin\Debug\net6.0\UC10SUPPORTEMPWAGE.dll
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\bin\Debug\net6.0\UC10SUPPORTEMPWAGE.pdb
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.dll
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\refint\UC10SUPPORTEMPWAGE.dll
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.pdb
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\UC10SUPPORTEMPWAGE.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC10SUPPORTEMPWAGE\obj\Debug\net6.0\ref\UC10SUPPORTEMPWAGE.dll

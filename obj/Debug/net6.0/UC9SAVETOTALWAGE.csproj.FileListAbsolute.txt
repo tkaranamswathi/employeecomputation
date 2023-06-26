@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\bin\Debug\net6.0\UC9SAVETOTALWAGE.exe
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\bin\Debug\net6.0\UC9SAVETOTALWAGE.deps.json
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\bin\Debug\net6.0\UC9SAVETOTALWAGE.runtimeconfig.json
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\bin\Debug\net6.0\UC9SAVETOTALWAGE.dll
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\bin\Debug\net6.0\UC9SAVETOTALWAGE.pdb
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.dll
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\refint\UC9SAVETOTALWAGE.dll
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.pdb
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\UC9SAVETOTALWAGE.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC9SAVETOTALWAGE\obj\Debug\net6.0\ref\UC9SAVETOTALWAGE.dll

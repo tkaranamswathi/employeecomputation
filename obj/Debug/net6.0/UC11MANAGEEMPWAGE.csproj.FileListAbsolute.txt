@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\bin\Debug\net6.0\UC11MANAGEEMPWAGE.exe
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\bin\Debug\net6.0\UC11MANAGEEMPWAGE.deps.json
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\bin\Debug\net6.0\UC11MANAGEEMPWAGE.runtimeconfig.json
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\bin\Debug\net6.0\UC11MANAGEEMPWAGE.dll
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\bin\Debug\net6.0\UC11MANAGEEMPWAGE.pdb
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.dll
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\refint\UC11MANAGEEMPWAGE.dll
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.pdb
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\UC11MANAGEEMPWAGE.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC11MANAGEEMPWAGE\obj\Debug\net6.0\ref\UC11MANAGEEMPWAGE.dll

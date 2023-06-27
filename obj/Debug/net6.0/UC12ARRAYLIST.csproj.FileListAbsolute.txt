@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC12ARRAYLIST\bin\Debug\net6.0\UC12ARRAYLIST.exe
+C:\Users\swath\source\repos\UC12ARRAYLIST\bin\Debug\net6.0\UC12ARRAYLIST.deps.json
+C:\Users\swath\source\repos\UC12ARRAYLIST\bin\Debug\net6.0\UC12ARRAYLIST.runtimeconfig.json
+C:\Users\swath\source\repos\UC12ARRAYLIST\bin\Debug\net6.0\UC12ARRAYLIST.dll
+C:\Users\swath\source\repos\UC12ARRAYLIST\bin\Debug\net6.0\UC12ARRAYLIST.pdb
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.dll
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\refint\UC12ARRAYLIST.dll
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.pdb
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\UC12ARRAYLIST.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC12ARRAYLIST\obj\Debug\net6.0\ref\UC12ARRAYLIST.dll
